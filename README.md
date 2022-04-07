@@ -1,8 +1,8 @@
 ### Hi there, I'm Andre 👋
 
 <p align="center">
-  <img src="https://github.com/andrescarton/andrescarton/blob/master/welcome_to_my_portfolio" />
-</p>.jpg
+  <img src="https://github.com/andrescarton/andrescarton/blob/main/welcome_to_my_portfolio.jpg" />
+</p>
 
 <!--
 **andrescarton/andrescarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
