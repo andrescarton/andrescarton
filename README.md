@@ -1,5 +1,5 @@
 ### Hi there, I'm Andre 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-scarton-a6b25b195/)](https://www.linkedin.com/in/andre-scarton-a6b25b195/)
 <p align="center">
   <img src="https://github.com/andrescarton/andrescarton/blob/main/welcome_to_my_portfolio.jpg" />
 </p>
