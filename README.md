@@ -1,7 +1,7 @@
 ### Hi there, I'm Andre 👋
 
 <p align="center">
-  <img src="https://github.com/andrescarton/andrescarton/blob/master/welcome_to_my_portfolio.jpg" />
+  <img src="https://github.com/andrescarton/andrescarton/blob/master/welcome_to_my_portfolio" />
 </p>.jpg
 
 <!--
