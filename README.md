@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://github.com/andrescarton/andrescarton/blob/main/welcome_to_my_portfolio.jpg" />
 </p>
-
+## 🚀 Objective
+My main objective is to improve my knowledge in the application of **data science** and provide my services in companies in the implementation of machine learning and other technologies for processing data for visualization of results, risk prevention and resolution of business-related problems.  
 <!--
 **andrescarton/andrescarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
