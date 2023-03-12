@@ -4,9 +4,26 @@
   <img src="https://github.com/andrescarton/andrescarton/blob/main/welcome_to_my_portfolio.jpg" />
 </p>
 
-## 🚀 **Objective** 
+## 🚀 **About me** 
 
-My main objective is to improve my knowledge in the application of **data science** and provide my services in companies in the implementation of machine learning and other technologies for processing data for visualization of results, risk prevention and resolution of business-related problems.  
+I am a cheerful and curious Data Scientist who truly believes in the power of artificial intelligence, machine learning and automation.
+
+Currently fulfilling my dream of studying and living abroad and am now open to new opportunities to develop my career in Ireland further.
+
+Throughout my career, I have worked mainly with CRM systems automation in the Banking industry, analysing the client database, behaviour, journey, transactions, budgets, and expenses to bring the best solutions through automation and machine learning developments. I successfully improved customer experience and sales results by performing deep-dive analysis with a view to delivering opportunities for operational efficiencies, created a 360-degree view of operational performance, and identified and prioritised key business questions to provide data-driven solutions to support critical decision-making and increase revenue results.
+
+
+What are my non-secret superpowers?
+Idea Generation, Proactive Problem Solving, Networking, Teamwork, Collaborative, Analytical, Methodical, and Persistent.
+
+Where can you find me?
+Playing football, in a coffee shop studying, travelling or by email andre.kim1@hotmail.com
+
+What are my values?
+Authenticity, spreading good energy, developing game-changing ideas and dopamine triggers. I trust my guts, and I back it up with data
+
+Specialities:
+Python, Big data, Machine Learning, Data mining, Business Analytics, R, Statistics, Hive, Hadoop, Spark, SQL, Data Bases, Business Intelligence, Power BI, Tableau, MicroStrategy, ETL, SAS 
 
 #### 💻 Daily use:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
