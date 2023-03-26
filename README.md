@@ -14,12 +14,15 @@ Throughout my career, I have worked mainly with CRM systems automation in the Ba
 
 
 What are my non-secret superpowers?
+
 Idea Generation, Proactive Problem Solving, Networking, Teamwork, Collaborative, Analytical, Methodical, and Persistent.
 
 Where can you find me?
+
 Playing football, in a coffee shop studying, travelling or by email andre.kim1@hotmail.com
 
 What are my values?
+
 Authenticity, spreading good energy, developing game-changing ideas and dopamine triggers. I trust my guts, and I back it up with data
 
 Specialities:
