@@ -31,10 +31,6 @@ technical learning with things I genuinely care about.
 | Project | What it does | Stack |
 |---|---|---|
 | [**AI Investment Robot**](https://github.com/andrescarton/Ai-Investment) | Reads news with a local LLM + price trend + market alpha → BUY / HOLD / SELL | Python · Llama 3.2 · Ollama · NewsAPI · yfinance |
-| **RAG Pipeline** | Document search & info extraction using vector databases and semantic search | Python · LangChain · Embeddings · Vector DB |
-| **LLM Document Summariser** | Automatically summarises and extracts structured data from financial documents | Python · OpenAI API |
-| **Credit Scoring Pipeline** | Full XGBoost pipeline with SHAP explainability and concept drift monitoring | Python · XGBoost · SHAP |
-
 📊 Live report demo from the AI Investment Robot → **[andrescarton.github.io/Ai-Investment](https://andrescarton.github.io/Ai-Investment/)**
 
 ---
