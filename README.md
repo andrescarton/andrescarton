@@ -31,8 +31,10 @@ technical learning with things I genuinely care about.
 | Project | What it does | Stack |
 |---|---|---|
 | [**AI Investment Robot**](https://github.com/andrescarton/Ai-Investment) | Reads news with a local LLM + price trend + market alpha → BUY / HOLD / SELL | Python · Llama 3.2 · Ollama · NewsAPI · yfinance |
+| [**Cancer Mutation Classifier**](https://github.com/andrescarton/Personalized_Medicine_Redefining_Cancer_Treatment) | Classifies genetic mutations into 9 clinical categories (driver vs. passenger) from gene, variation, and scientific text — found and fixed 5 data-leakage bugs from an earlier version, log-loss 1.00 vs. ~0.47 for the 2017 Kaggle top-10 | Python · scikit-learn · TF-IDF · PubMedBERT · Streamlit |
 
 📊 Live report demo from the AI Investment Robot → **[andrescarton.github.io/Ai-Investment](https://andrescarton.github.io/Ai-Investment/)**
+🧬 Live app for the Cancer Mutation Classifier → **[personalizedmedicineredefiningcancertreatment-au3vewkxqrbvesse.streamlit.app](https://personalizedmedicineredefiningcancertreatment-au3vewkxqrbvesse.streamlit.app/)**
 
 ---
 
