@@ -34,7 +34,7 @@ technical learning with things I genuinely care about.
 | [**Cancer Mutation Classifier**](https://github.com/andrescarton/Personalized_Medicine_Redefining_Cancer_Treatment) | Classifies genetic mutations into 9 clinical categories (driver vs. passenger) from gene, variation, and scientific text — found and fixed 5 data-leakage bugs from an earlier version, log-loss 1.00 vs. ~0.47 for the 2017 Kaggle top-10 | Python · scikit-learn · TF-IDF · PubMedBERT · Streamlit |
 
 📊 Live report demo from the AI Investment Robot → **[andrescarton.github.io/Ai-Investment](https://andrescarton.github.io/Ai-Investment/)**
-🧬 Live app for the Cancer Mutation Classifier → **[personalizedmedicineredefiningcancertreatment-au3vewkxqrbvesse.streamlit.app]([https://personalizedmedicineredefiningcancertreatment-au3vewkxqrbvesse.streamlit.app/](https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/))**
+🧬 Live app for the Cancer Mutation Classifier → **[personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app]([https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/](https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/))**
 
 ---
 
