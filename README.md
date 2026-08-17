@@ -8,7 +8,7 @@
 
 ## 🚀 About me
 
-I'm a **Data Scientist with 5+ years of experience** in financial services —
+I'm a **Data Analyst | Data Scientist with 5+ years of experience** in financial services —
 and someone who genuinely believes that the best way to learn something
 is to build something real with it.
 
@@ -83,7 +83,7 @@ technical learning with things I genuinely care about.
 
 ## 🏦 Where I've been
 
-**Data Scientist @ Bradesco Bank** *(2017 – 2022)*
+**Data Analyst | Data Scientist @ Bradesco Bank** *(2017 – 2022)*
 One of Brazil's top 5 banks · 70M+ customers · Data Management Department (DGD)
 
 - Built and deployed **credit scoring models** (XGBoost, feature engineering, AUC optimisation)
@@ -99,7 +99,7 @@ One of Brazil's top 5 banks · 70M+ customers · Data Management Department (DGD
 ## 🎓 Education
 
 🎓 **Higher Diploma in Science in Computing** — Griffith College, Dublin · 2024–2025
-⚡ **Bachelor's in Electrical Engineering** — Instituto Mauá de Tecnologia, Brazil · 2012–2016
+⚡ **Bachelor's in Electrical Engineering** — Instituto Mauá de Tecnologia, Brazil · 2016–2021
 
 ---
 
