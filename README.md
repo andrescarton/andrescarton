@@ -15,7 +15,7 @@ Five years as a data scientist at **Bradesco**, one of Brazil's biggest banks: c
 | | Project | What it does |
 |:-:|---|---|
 | 🧬 | **[Cancer Mutation Classifier](https://github.com/andrescarton/Personalized_Medicine_Redefining_Cancer_Treatment)**<br>[![App](https://img.shields.io/badge/Live_app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/) | Predicts the clinical class of a genetic mutation from medical text. A calibrated linear SVM beat fine-tuned PubMedBERT. |
-| 🏦 | **[Santander Customer Satisfaction](https://github.com/andrescarton/santander-customer-satisfaction)** | Flags unhappy bank customers before they leave. Final model uses 10 features, ROC-AUC 0.836. |
+| 🏦 | **[Santander Customer Satisfaction](https://github.com/andrescarton/santander-customer-satisfaction)**<br>[![App](https://img.shields.io/badge/Live_app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://santander-customer-satisfaction-mwi9wabakglouieoynhvj6.streamlit.app/) | Flags unhappy bank customers before they leave. Final model uses 10 features, ROC-AUC 0.836. |
 | 📈 | **[AI Investment Robot](https://github.com/andrescarton/Ai-Investment)**<br>[![Report](https://img.shields.io/badge/Sample_report-2EA44F?style=flat-square&logo=github&logoColor=white)](https://andrescarton.github.io/Ai-Investment/) | A local Llama 3.2 reads stock news and combines it with price data into a buy / hold / sell report. |
 
 ## Tech stack
