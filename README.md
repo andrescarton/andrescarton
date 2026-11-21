@@ -1,112 +1,33 @@
-### Hi, I'm Andre Kim 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-kim-scarton-a6b25b195)](https://www.linkedin.com/in/andre-kim-scarton-a6b25b195)
-<p align="center">
-  <img src="https://github.com/andrescarton/andrescarton/blob/main/welcome_to_my_portfolio.jpg" />
-</p>
+# Hi, I'm Andre
 
----
+Data scientist based in Dublin. I spent five years at Bradesco, one of Brazil's biggest banks, building credit scoring models, customer segmentation and the ETL and dashboards around them. These days I'm mostly working with LLMs and NLP, and this is where I keep the projects.
 
-## 🚀 About me
+[LinkedIn](https://www.linkedin.com/in/andre-kim-scarton-a6b25b195) · andre.kim1@hotmail.com
 
-I'm a **Data Analyst | Data Scientist with 5+ years of experience** in financial services —
-and someone who genuinely believes that the best way to learn something
-is to build something real with it.
+## Projects
 
-My career started at **Bradesco Bank**, one of Brazil's top 5 banks (70M+ customers),
-where I worked as an internal data science consultant embedded in the Data Management
-Department. I partnered with CRM, Marketing, Investments, and Retail teams to design,
-build, and deploy data science solutions from ideation to production — credit scoring,
-customer segmentation, ETL pipelines, executive dashboards, and data governance.
+**[Cancer Mutation Classifier](https://github.com/andrescarton/Personalized_Medicine_Redefining_Cancer_Treatment)** · [live app](https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/)
+Predicts the clinical class of a genetic mutation from the gene, the variation and a chunk of medical literature. I rebuilt an old notebook of mine after finding leakage bugs in it. A calibrated linear SVM ended up beating a fine-tuned PubMedBERT.
+`scikit-learn` `TF-IDF` `PubMedBERT` `Streamlit`
 
-Now based in **Dublin, Ireland**, I'm channelling that foundation into the next chapter:
-**Generative AI, LLMs, and RAG systems** — building hands-on projects that combine
-technical learning with things I genuinely care about.
+**[Santander Customer Satisfaction](https://github.com/andrescarton/santander-customer-satisfaction)**
+Flags unhappy bank customers before they leave. Compared 6 models, then cut the final one from 30 features to 10 with no real loss in ROC-AUC (0.836). Comes with a small Streamlit app to score a customer.
+`scikit-learn` `HistGradientBoosting` `Streamlit`
 
-> *I trust my guts — and I back it up with data.*
+**[AI Investment Robot](https://github.com/andrescarton/Ai-Investment)** · [sample report](https://andrescarton.github.io/Ai-Investment/)
+Side project mixing two interests. A local Llama 3.2 reads recent news about a stock, combines it with the price trend and performance against the S&P 500, and writes an HTML report with a buy / hold / sell call.
+`Python` `Ollama` `Llama 3.2` `yfinance`
 
----
+Older course work in R, Python and Power BI is in [Projects-With-R](https://github.com/andrescarton/Projects-With-R), [Projects-With-Python](https://github.com/andrescarton/Projects-With-Python) and [Power-BI](https://github.com/andrescarton/Power-BI).
 
-## 🤖 What I'm building right now
+## Tools I use most
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**AI Investment Robot**](https://github.com/andrescarton/Ai-Investment) | Reads news with a local LLM + price trend + market alpha → BUY / HOLD / SELL | Python · Llama 3.2 · Ollama · NewsAPI · yfinance |
-| [**Cancer Mutation Classifier**](https://github.com/andrescarton/Personalized_Medicine_Redefining_Cancer_Treatment) | Classifies genetic mutations into 9 clinical categories (driver vs. passenger) from gene, variation, and scientific text — found and fixed 5 data-leakage bugs from an earlier version, log-loss 1.00 vs. ~0.47 for the 2017 Kaggle top-10 | Python · scikit-learn · TF-IDF · PubMedBERT · Streamlit |
+Python, SQL, scikit-learn, XGBoost, pandas, PySpark, Power BI, Tableau, Git. Getting deeper into Ollama, LangChain, Hugging Face and AWS.
 
-📊 Live report demo from the AI Investment Robot → **[andrescarton.github.io/Ai-Investment](https://andrescarton.github.io/Ai-Investment/)**
-🧬 Live app for the Cancer Mutation Classifier → **[personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app]([https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/](https://personalizedmedicineredefiningcancertreatment-mrxi9mpbul7oakwi.streamlit.app/))**
+## Background
 
----
+- Data Analyst / Data Scientist at Bradesco Bank, 2017–2022
+- Higher Diploma in Computing, Griffith College Dublin, 2024–2025
+- BSc Electrical Engineering, Instituto Mauá de Tecnologia, 2016–2021
 
-## 🧠 What I work with
-
-#### 💻 Core
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=PostgreSQL)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-
-#### 🤖 AI & Machine Learning
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=xgboost)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-
-#### 🧬 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink)
-![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square&logo=ollama)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-black?style=flat-square&logo=openai)
-
-#### ⚙️ Data Engineering
-![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=Apache-Spark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
-![Teradata](https://img.shields.io/badge/-Teradata-black?style=flat-square&logo=Teradata)
-![SAS](https://img.shields.io/badge/-SAS-black?style=flat-square&logo=SAS)
-
-#### 📊 Analytics & BI
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
-![MicroStrategy](https://img.shields.io/badge/-MicroStrategy-black?style=plastic&logo=Microstrategy)
-![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
-
-#### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=Microsoft-Azure)
-
-#### 🌱 Currently learning
-![AWS ML Specialty](https://img.shields.io/badge/-AWS%20ML%20Specialty-black?style=flat-square&logo=Amazon-AWS)
-![Azure AI Engineer](https://img.shields.io/badge/-Azure%20AI%20Engineer-black?style=flat-square&logo=Microsoft-Azure)
-
----
-
-## 🏦 Where I've been
-
-**Data Analyst | Data Scientist @ Bradesco Bank** *(2017 – 2022)*
-One of Brazil's top 5 banks · 70M+ customers · Data Management Department (DGD)
-
-- Built and deployed **credit scoring models** (XGBoost, feature engineering, AUC optimisation)
-- Designed **ETL pipelines** in Python + PySpark, reducing manual reporting effort by **40%**
-- Created **customer segmentation** (K-Means) that directly shaped marketing campaign strategy
-- Developed **executive dashboards** across Tableau, Power BI, and MicroStrategy under
-  the bank's Gold / Silver / Bronze data governance classification
-- Worked as an **internal consultant** across CRM, Marketing, Investments, HR, and Retail —
-  translating complex models into non-technical recommendations for business stakeholders
-
----
-
-## 🎓 Education
-
-🎓 **Higher Diploma in Science in Computing** — Griffith College, Dublin · 2024–2025
-⚡ **Bachelor's in Electrical Engineering** — Instituto Mauá de Tecnologia, Brazil · 2016–2021
-
----
-
-## 💬 Find me
-
-⚽ Playing football · ☕ In a coffee shop studying · ✈️ Travelling
-📫 andre.kim1@hotmail.com
-
-**What drives me:** authenticity, spreading good energy, and building things that actually work.
-
+Outside of work: football, coffee shops and travelling.
